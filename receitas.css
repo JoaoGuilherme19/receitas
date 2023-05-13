@@ -1,0 +1,15 @@
+.receitas {
+  display: flex;
+
+  height: 100%;
+  gap: 15px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.card-text {
+  display: grid;
+  justify-content: center;
+}
